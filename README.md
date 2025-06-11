@@ -7,7 +7,7 @@
 
 <!-- 🌀 Animated GIF Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/58/ad/3b/58ad3b5dfe4c1f4e5940d8201982b415.gif" width="40%" alt="coding animation" />
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/559650/extras/StoreBannerWitch.gif?t=1730740673" width="100%"  alt="coding animation" />
 </p>
 
 <p align="center"><i>"Fueled by caffeine. Built with logic. Debugged by fire."</i></p>
