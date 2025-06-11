@@ -7,7 +7,7 @@
 
 <!-- 🌀 Animated GIF Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/58/ad/3b/58ad3b5dfe4c1f4e5940d8201982b415.gif" width="50%" alt="coding animation" />
+  <img src="https://i.pinimg.com/originals/58/ad/3b/58ad3b5dfe4c1f4e5940d8201982b415.gif" width="40%" alt="coding animation" />
 </p>
 
 <p align="center"><i>"Fueled by caffeine. Built with logic. Debugged by fire."</i></p>
@@ -70,7 +70,6 @@
 
 ---
 
-### ☕ Support Me
 <p>
   <a href="https://www.buymeacoffee.com/stxxcsxnny">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -83,13 +82,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=stxxcsxnny&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" width="45%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stxxcsxnny&theme=highcontrast" alt="GitHub Streak" width="48%" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stxxcsxnny&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" width="60%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=stxxcsxnny&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" width="35%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stxxcsxnny&theme=highcontrast" alt="GitHub Streak" width="38%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stxxcsxnny&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" width="30%" />
+  <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stxxcsxnny&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 
