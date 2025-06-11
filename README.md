@@ -7,7 +7,7 @@
 
 <!-- 🌀 Animated GIF Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/58/ad/3b/58ad3b5dfe4c1f4e5940d8201982b415.gif" width="70%" alt="coding animation" />
+  <img src="https://i.pinimg.com/originals/58/ad/3b/58ad3b5dfe4c1f4e5940d8201982b415.gif" width="50%" alt="coding animation" />
 </p>
 
 <p align="center"><i>"Fueled by caffeine. Built with logic. Debugged by fire."</i></p>
@@ -17,6 +17,16 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://stxxcsxnny.github.io/portfolio/)
 - 💬 Ask me about **React, HTML, CSS**
 - 📫 Reach me at **sk2993130@gmail.com**
+
+
+### 🎧 Recently Played on Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sk2993130" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sk2993130&count=1&width=600&height=150&cover_image=true&theme=default&show_time=true" alt="Spotify Recently Played" />
+  </a>
+</div>
+
 
 ---
 
