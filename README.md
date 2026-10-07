@@ -1,95 +1,76 @@
 <h1 align="center">Hi 👋, I'm Sunny</h1>
-<h3 align="center">⚡ Full-stack Chaos Architect — Bending pixels, breaking limits, building tomorrow. Code is my canvas, innovation is my fuel. Let's rewrite the rules. 🕶️💾</h3>
+
+<h3 align="center">Full-stack developer building real-time apps and AI-powered tools</h3>
+
+<p align="center"><i>Fueled by caffeine. Built with logic. Debugged by fire.</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stxxcsxnny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- 🌀 Animated GIF Section -->
-<p align="center">
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/559650/extras/StoreBannerWitch.gif?t=1730740673" width="100%"  alt="coding animation" />
-</p>
-
-<p align="center"><i>"Fueled by caffeine. Built with logic. Debugged by fire."</i></p>
-
 ---
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://stxxcsxnny.github.io/portfolio/)
-- 💬 Ask me about **React, HTML, CSS**
+## 👨‍💻 About me
+
+- 🔭 I build full-stack apps with **React, Node.js, Express, MongoDB** and **Python (FastAPI)**
+- ⚡ Currently exploring **AI integration** (Gemini API) and **real-time systems** (Socket.IO, WebRTC)
+- 💬 Ask me about React, JavaScript, HTML/CSS, REST APIs
+- 🌐 Portfolio: [sunnyyportfolioo.netlify.app](https://sunnyyportfolioo.netlify.app)
 - 📫 Reach me at **sk2993130@gmail.com**
 
+---
 
-### 🎧 Recently Played on Spotify
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://open.spotify.com/user/sk2993130" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sk2993130&count=1&width=600&height=150&cover_image=true&theme=default&show_time=true" alt="Spotify Recently Played" />
-  </a>
-</div>
+### 🤖 [HireFlow AI](https://github.com/Stxxcsxnny/hireflow-ai)
+AI-powered resume screening and job matching tool. Upload a PDF resume, get a match score against a job description, plus skills, strengths and weaknesses.
+`React` `Vite` `FastAPI` `Gemini API` `PyMuPDF`
+🔗 [Live demo](https://hireflowsfrontend.vercel.app)
 
+### 💬 [Groovz](https://github.com/Stxxcsxnny/Groovz)
+Real-time chat app with friend requests, group chats, file sharing, WebRTC video calls and an admin dashboard.
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.IO` `WebRTC`
+🔗 [Live demo](https://groovz-frontend.vercel.app)
+
+### 🎮 [Award-winning Website (clone)](https://github.com/Stxxcsxnny/awardwinning-website)
+Animated gaming landing page with smooth scroll-based transitions.
+`React` `GSAP` `ScrollTrigger`
 
 ---
 
-### 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with me
+
 <p align="left">
-  <a href="https://dev.to/stxxcsxnny" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sunny kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/stxxcsxnny" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sk2993130" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/stxxcsxnny" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://www.leetcode.com/sk2993130" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:sk2993130@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 💻 Languages & Tools
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-</p>
-
----
-
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/stxxcsxnny">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=stxxcsxnny&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" width="35%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stxxcsxnny&theme=highcontrast" alt="GitHub Streak" width="38%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stxxcsxnny&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" width="30%" />
-  <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stxxcsxnny&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-
-
